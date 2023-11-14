@@ -1,0 +1,82 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion ID="1" Modified="2023-11-03 13:34:35" VersionName="LENON_ASSESSMENT03">
+ <Element ID="2" Folder="Pupil" Name="Pupil">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="3" Folder="Eyeball" Name="Eyeball">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="4" Folder="EyeBrow" Name="EyeBrow">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="5" Folder="Nose" Name="Nose">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="6" Folder="Mouth" Name="Mouth">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="7" Folder="Head" Name="Head">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="8" Folder="Jaw" Name="Jaw">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="9" Folder="ear" Name="ear">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="11" Folder="Hair_Front" Name="Hair_Front">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="12" Folder="Neck" Name="Neck">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="13" Folder="Torso" Name="Torso">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="14" Folder="UpperArm" Name="UpperArm">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="15" Folder="LowerArm" Name="LowerArm">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="16" Folder="Hand" Name="Hand">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="17" Folder="hip" Name="hip">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="18" Folder="Crotch" Name="Crotch"/>
+ <Element ID="19" Folder="UpperLeg" Name="UpperLeg">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="20" Folder="LowerLeg" Name="LowerLeg">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="21" Folder="Foot" Name="Foot">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="23" Folder="Assessment01_Lenon" Name="Assessment01_Lenon">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="27" Folder="Eyelid" Name="Eyelid">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="28" Folder="Hair_Side_L" Name="Hair_Side_L">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="29" Folder="Hair_Side_R" Name="Hair_Side_R">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="30" Folder="Glasses" Name="Glasses">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="31" Folder="Hair_Back" Name="Hair_Back">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="32" Folder="Torso_Bottom" Name="Torso_Bottom">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element ID="33" Folder="Hoodie_Front" Name="Hoodie_Front">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+</SceneVersion>
