@@ -31,4 +31,10 @@
  <element id="33" elementName="Hoodie_Front" elementFolder="Hoodie_Front" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="34" elementName="Hair_Strand_Front" elementFolder="Hair_Strand_Front" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="36" elementName="Right_Lens" elementFolder="Right_Lens" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="38" elementName="Snow_Town_" elementFolder="Snow_Town_" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="39" elementName="Snow_Town_" elementFolder="Snow_Town_.39" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="40" elementName="Snow_Town_" elementFolder="Snow_Town_.40" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="41" elementName="SnowTownCopy" elementFolder="SnowTownCopy" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="42" elementName="SnowTownCopy" elementFolder="SnowTownCopy.42" pixmapFormat="2" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="43" elementName="snowflakes" elementFolder="snowflakes" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
