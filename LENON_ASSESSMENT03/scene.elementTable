@@ -41,4 +41,5 @@
  <element id="47" elementName="Sky" elementFolder="Sky" pixmapFormat="2" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="48" elementName="Back_Hair_Mid" elementFolder="Back_Hair_Mid" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="49" elementName="Back_Hair_Right" elementFolder="Back_Hair_Right" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="50" elementName="Sky" elementFolder="Sky.50" pixmapFormat="2" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
