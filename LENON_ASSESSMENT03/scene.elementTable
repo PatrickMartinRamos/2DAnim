@@ -37,4 +37,5 @@
  <element id="41" elementName="SnowTownCopy" elementFolder="SnowTownCopy" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="42" elementName="SnowTownCopy" elementFolder="SnowTownCopy.42" pixmapFormat="2" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="43" elementName="snowflakes" elementFolder="snowflakes" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="44" elementName="floor" elementFolder="floor" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
