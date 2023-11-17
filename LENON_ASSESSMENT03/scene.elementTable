@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<elements source="Harmony Premium (HarmonyPremium.exe) version 22.0.2 build 21617 2023-06-12 08:19:32" version="2202" build="21617">
+<elements source="Harmony Premium (HarmonyPremium.exe) version 22.0.1 build 19338 2023-03-01 16:52:00" version="2201" build="19338">
  <element id="2" elementName="Pupil" elementFolder="Pupil" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="3" elementName="Eyeball" elementFolder="Eyeball" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="4" elementName="EyeBrow" elementFolder="EyeBrow" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -35,7 +35,8 @@
  <element id="39" elementName="Snow_Town_" elementFolder="Snow_Town_.39" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="40" elementName="Snow_Town_" elementFolder="Snow_Town_.40" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="41" elementName="SnowTownCopy" elementFolder="SnowTownCopy" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="42" elementName="SnowTownCopy" elementFolder="SnowTownCopy.42" pixmapFormat="2" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="43" elementName="snowflakes" elementFolder="snowflakes" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="44" elementName="floor" elementFolder="floor" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="48" elementName="SnowTownCopy2" elementFolder="SnowTownCopy2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="49" elementName="Sky" elementFolder="Sky.49" pixmapFormat="2" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="50" elementName="Sky" elementFolder="Sky.50" pixmapFormat="2" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>

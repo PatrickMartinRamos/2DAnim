@@ -425,7 +425,7 @@
      <elementSeq exposures="1" val="1" id="21"/>
      <elementSeq exposures="10-19,20,22-30,210-224,225-229,230-240,241,242-249,250-264,265-269,270-289,290" val="8" id="21"/>
     </column>
-    <column type="0" name="ATV-0BCD916AB790175F" display="false" displayOrder="0" width="100" anonymous="true" id="23">
+    <column type="0" name="ATV-0BCD916AB790175F" displayOrder="0" width="100" anonymous="true" id="23">
      <elementSeq exposures="1-60" val="1" id="23"/>
     </column>
     <column type="0" name="ATV-0BD18C6617A659D3" displayOrder="0" width="100" anonymous="true" id="28">
@@ -5344,7 +5344,7 @@
        <pt val="-0.46458221806584854,0.16111072435168472,0" lockedInTime="290"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0BDC476886400FD5" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0BDC56A7E40011B5" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -5437,7 +5437,7 @@
        <pt val="-0.018749954989204717,0.21111060432289719,0" lockedInTime="290"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0BDC476886400FD7" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0BDC56A7E40011B7" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -5532,7 +5532,7 @@
        <pt val="0.024371633814663965,0.50132154866044376,0" lockedInTime="290"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0BDC476886400FD9" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0BDC56A7E40011B9" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -5628,7 +5628,7 @@
        <pt val="-0.069270667043449391,-0.27430489706429106,0" lockedInTime="290"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0BDC476886400FDB" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0BDC56A7E40011BB" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -5722,7 +5722,7 @@
        <pt val="0.13072885225932382,-0.092360890167367371,0" lockedInTime="290"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0BDC476886400FDD" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0BDC56A7E40011BD" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -16890,7 +16890,7 @@
        <pt val="1.497529287725486,-1.0570149500937245,0" lockedInTime="290"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0BDC476886400FDF" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0BDC56A7E40011BF" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -16977,7 +16977,7 @@
        <pt val="0,0,0" lockedInTime="20"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0BDC476886400FE1" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0BDC56A7E40011C1" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -17011,7 +17011,7 @@
        <pt val="0,0,0" lockedInTime="290"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0BDC476886400FE3" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0BDC56A7E40011C3" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -17146,7 +17146,7 @@
        <pt val="3.0331288494930488,41.565255690920601,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-0BDC476886400FE5" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-0BDC56A7E40011C5" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -17204,45 +17204,59 @@
     </column>
     <column type="3" name="ATV-0BDC476886406131" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC476886406132" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC476886406133" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC476886406134" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC476886406135" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC476886406136" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC476886406137" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC47688640772E" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC47688640772F" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC476886407730" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC476886407731" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC476886407732" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC476886407733" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="3" name="ATV-0BDC476886407734" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
     </column>
     <column type="0" name="ATV-0BDC476886418233" displayOrder="0" width="100" anonymous="true" id="44">
      <elementSeq exposures="209,210-228,229-247,248-250,251-267,268-288,289-290" val="1" id="44"/>
@@ -17256,13 +17270,13 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="DISPLAY" name="Display" pos="1606,1310,29" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="1606,1310,28" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="1506,1310,30" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="1506,1310,29" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -37438,7 +37452,7 @@
        <waypointLink nameId="waypoint_4" out="Upper_Body_Master-P" outport="0" in="Arms-P" inport="0"/>
       </waypointLinks>
      </group>
-     <module type="COMPOSITE" name="Composite" pos="1538,1236,3" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="1538,1236,2" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -37457,7 +37471,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Assessment01_Lenon" pos="1614,1179,8" publishUnderTab="Assessment01_Lenon">
+     <module type="READ" name="Assessment01_Lenon" pos="1614,1179,7" publishUnderTab="Assessment01_Lenon">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -37570,7 +37584,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="Peg" pos="1438,1115,6" publishUnderTab="Peg">
+     <module type="PEG" name="Peg" pos="1438,1115,5" publishUnderTab="Peg">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -37633,7 +37647,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Rectangle_4" pos="682,696,11" publishUnderTab="Rectangle_4">
+     <module type="READ" name="Rectangle_4" pos="682,696,10" publishUnderTab="Rectangle_4">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -37745,7 +37759,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Rectangle_5" pos="784,665,12" publishUnderTab="Rectangle_5">
+     <module type="READ" name="Rectangle_5" pos="784,665,11" publishUnderTab="Rectangle_5">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -37857,7 +37871,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Water_Puddle" pos="882,634,13" publishUnderTab="Water_Puddle">
+     <module type="READ" name="Water_Puddle" pos="882,634,12" publishUnderTab="Water_Puddle">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -37969,7 +37983,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Rectangle_3" pos="994,603,14" publishUnderTab="Rectangle_3">
+     <module type="READ" name="Rectangle_3" pos="994,603,13" publishUnderTab="Rectangle_3">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -38081,7 +38095,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="lamp1_1" pos="1106,572,15" publishUnderTab="lamp1_1">
+     <module type="READ" name="lamp1_1" pos="1106,572,14" publishUnderTab="lamp1_1">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -38194,7 +38208,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="lamp1_1_2" pos="1187,541,16" publishUnderTab="lamp1_1_2">
+     <module type="READ" name="lamp1_1_2" pos="1187,541,15" publishUnderTab="lamp1_1_2">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -38307,7 +38321,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="lamp1_1_3" pos="1283,510,17" publishUnderTab="lamp1_1_3">
+     <module type="READ" name="lamp1_1_3" pos="1283,510,16" publishUnderTab="lamp1_1_3">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -38420,7 +38434,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Rectangle_2" pos="1375,479,18" publishUnderTab="Rectangle_2">
+     <module type="READ" name="Rectangle_2" pos="1375,479,17" publishUnderTab="Rectangle_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -38532,7 +38546,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="chain_link_fence_2" pos="1462,448,19" publishUnderTab="chain_link_fence_2">
+     <module type="READ" name="chain_link_fence_2" pos="1462,448,18" publishUnderTab="chain_link_fence_2">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -38644,7 +38658,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="London_Bridge_1" pos="1592,417,20" publishUnderTab="London_Bridge_1">
+     <module type="READ" name="London_Bridge_1" pos="1592,417,19" publishUnderTab="London_Bridge_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -38756,7 +38770,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="NY_Skyline_w_Twin_Towers_1" pos="1697,448,21" publishUnderTab="NY_Skyline_w_Twin_Towers_1">
+     <module type="READ" name="NY_Skyline_w_Twin_Towers_1" pos="1697,448,20" publishUnderTab="NY_Skyline_w_Twin_Towers_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -38868,7 +38882,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Seattle_Skyline_1" pos="1877,479,22" publishUnderTab="Seattle_Skyline_1">
+     <module type="READ" name="Seattle_Skyline_1" pos="1877,479,21" publishUnderTab="Seattle_Skyline_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -38980,7 +38994,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Line_1" pos="2012,510,23" publishUnderTab="Line_1">
+     <module type="READ" name="Line_1" pos="2012,510,22" publishUnderTab="Line_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -39092,7 +39106,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Rectangle_7" pos="2091,479,9" publishUnderTab="Rectangle_7">
+     <module type="READ" name="Rectangle_7" pos="2091,479,8" publishUnderTab="Rectangle_7">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -39204,7 +39218,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="BLEND_MODE_MODULE" name="Rectangle_7_Blending" pos="2081,541,24" publishUnderTab="Rectangle_7_Blending">
+     <module type="BLEND_MODE_MODULE" name="Rectangle_7_Blending" pos="2081,541,23" publishUnderTab="Rectangle_7_Blending">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -39215,7 +39229,7 @@
        <flashBlendMode val="eNORMAL_BLEND"/>
       </attrs>
      </module>
-     <module type="READ" name="Rectangle_6" pos="2201,572,25" publishUnderTab="Rectangle_6">
+     <module type="READ" name="Rectangle_6" pos="2201,572,24" publishUnderTab="Rectangle_6">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -39327,7 +39341,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Rectangle_1" pos="2303,603,26" publishUnderTab="Rectangle_1">
+     <module type="READ" name="Rectangle_1" pos="2303,603,25" publishUnderTab="Rectangle_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -39439,7 +39453,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Moon" pos="2413,634,27" publishUnderTab="Moon">
+     <module type="READ" name="Moon" pos="2413,634,26" publishUnderTab="Moon">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -39551,7 +39565,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Sky" pos="2492,665,28" publishUnderTab="Sky">
+     <module type="READ" name="Sky" pos="2492,665,27" publishUnderTab="Sky">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -39663,7 +39677,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_SnowTownCopy" pos="1492,885,4" publishUnderTab="Composite_SnowTownCopy">
+     <module type="COMPOSITE" name="Composite_SnowTownCopy" pos="1492,885,3" publishUnderTab="Composite_SnowTownCopy">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -39682,7 +39696,7 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <group name="Basic-Gravity-Based" pos="1215,1180,5">
+     <group name="Basic-Gravity-Based" pos="1215,1180,4">
       <options>
        <collapsed val="true"/>
        <subnodeCollapsed val="true"/>
@@ -40050,7 +40064,7 @@
        <link out="Kill" in="Particle-System-Composite" inport="3"/>
       </linkedlist>
      </group>
-     <module type="PEG" name="Basic-Gravity-Based-Peg" pos="1217,1115,10" publishUnderTab="Basic-Gravity-Based-Peg">
+     <module type="PEG" name="Basic-Gravity-Based-Peg" pos="1217,1115,9" publishUnderTab="Basic-Gravity-Based-Peg">
       <options>
        <collapsed val="true"/>
        <version val="1"/>
@@ -40112,7 +40126,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="floor" pos="1538,1142,7" publishUnderTab="floor">
+     <module type="READ" name="floor" pos="1538,1142,6" publishUnderTab="floor">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
